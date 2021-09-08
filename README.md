@@ -1,2 +1,2 @@
-# Test-case-to-add-customer-s
+#UNIFORM STORE 
 Adding new customer's
